@@ -1,6 +1,5 @@
 # time-waits-for-no-one
 
-
 We provide the processed datasets for a subset of our 8 tasks.
 
 ## Twitter 
@@ -14,6 +13,10 @@ We provide scripts for processing the media frames corpus. Please see [here](htt
 ## Newsroom
 
 For both newsroom summarization and publisher classification, we used the [Newsroom](https://lil.nlp.cornell.edu/newsroom/index.html) dataset. 
+
+## SciERC
+
+We use the [SciERC](http://nlp.cs.washington.edu/sciIE/) dataset. We also provide scripts for processing this data.
 
 ## Yelp. 
 
